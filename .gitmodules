@@ -1,0 +1,3 @@
+[submodule "SecondRepository/Anais-test2"]
+	path = SecondRepository/Anais-test2
+	url = git@github.com:AnaisRamirez-SagoMini/Anais-test2.git
